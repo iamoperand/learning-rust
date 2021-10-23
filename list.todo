@@ -1,0 +1,27 @@
+# primitives
+✔ strings @done (10/20/2021, 1:57:15 PM)
+✔ mutability @done (10/20/2021, 1:57:16 PM)
+✔ type annotations @done (10/20/2021, 1:57:18 PM)
+✔ floats & float sizes @done (10/20/2021, 2:01:17 PM)
+✔ integers & integer sizes @done (10/20/2021, 2:27:52 PM)
+✔ booleans, conditionals, statements, and expressions @done (10/20/2021, 5:06:51 PM)
+
+
+# collections
+✔ tuples @done (10/20/2021, 7:01:12 PM)
+✔ structs @done (10/20/2021, 7:13:05 PM)
+✔ arrays @done (10/20/2021, 10:53:21 PM)
+✔ memory @done (10/20/2021, 10:53:27 PM)
+
+
+# pattern matching
+✔ enums & pattern matching @done (10/20/2021, 11:37:34 PM)
+✔ methods & associated functions @done (10/20/2021, 11:37:37 PM)
+✔ type parameters @done (10/21/2021, 12:55:29 AM)
+
+
+# vectors
+✔ vectors @done (10/21/2021, 1:22:14 AM)
+✔ usize @done (10/21/2021, 1:22:16 AM)
+✔ stack memory management @done (10/21/2021, 1:48:22 AM)
+✔ heap memory management @done (10/21/2021, 1:48:27 AM)

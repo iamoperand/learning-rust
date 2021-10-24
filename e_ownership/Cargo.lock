@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "primitives"
+name = "e_ownership"
 version = "0.1.0"

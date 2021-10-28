@@ -39,3 +39,10 @@
 ✔ mutable references @done (10/24/2021, 1:43:52 PM)
 ✔ mutable references restrictions @done (10/25/2021, 12:52:20 AM)
 ✔ slices @done (10/29/2021, 1:29:38 AM)
+
+
+# lifetimes
+✔ lifetimes @done (10/29/2021, 1:49:09 AM)
+✔ lifetime annotations @done (10/29/2021, 1:49:10 AM)
+✔ lifetime elision @done (10/29/2021, 2:00:08 AM)
+✔ the static lifetime @done (10/29/2021, 2:00:15 AM)

@@ -25,3 +25,17 @@
 ✔ usize @done (10/21/2021, 1:22:16 AM)
 ✔ stack memory management @done (10/21/2021, 1:48:22 AM)
 ✔ heap memory management @done (10/21/2021, 1:48:27 AM)
+
+
+# ownership
+✔ manual: dealloc(), use-after-free, double free @done (10/24/2021, 1:13:16 PM)
+✔ automatic: GC pauses vs Rust's scope-based heuristics @done (10/24/2021, 1:13:20 PM)
+✔ ownership: compiler errors prevent use-after-free @done (10/24/2021, 1:14:46 PM)
+✔ cloning: addressing compiler errors by sacrificing performance @done (10/24/2021, 1:14:48 PM)
+
+
+# borrowing
+✔ references & borrowing @done (10/24/2021, 1:43:49 PM)
+✔ mutable references @done (10/24/2021, 1:43:52 PM)
+✔ mutable references restrictions @done (10/25/2021, 12:52:20 AM)
+✔ slices @done (10/29/2021, 1:29:38 AM)

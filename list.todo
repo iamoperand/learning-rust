@@ -46,3 +46,15 @@
 ✔ lifetime annotations @done (10/29/2021, 1:49:10 AM)
 ✔ lifetime elision @done (10/29/2021, 2:00:08 AM)
 ✔ the static lifetime @done (10/29/2021, 2:00:15 AM)
+
+
+# traits
+# closures
+# macros
+
+
+# additional resources
+- rust-lang.org/learn
+- rust-lang.org/community
+- rust-analyzer.github.io
+- https://github.com/rtfeldman/rust-1.51-workshop/tree/trunk/lessons/src
